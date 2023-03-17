@@ -525,12 +525,16 @@ video {
   height: 100vh;
 }
 
-.max-h-\[60vh\] {
-  max-height: 60vh;
+.h-\[62vh\] {
+  height: 62vh;
 }
 
 .max-h-\[62vh\] {
   max-height: 62vh;
+}
+
+.min-h-\[62vh\] {
+  min-height: 62vh;
 }
 
 .w-full {
@@ -590,18 +594,6 @@ video {
 
 .p-4 {
   padding: 1rem;
-}
-
-.pb-20 {
-  padding-bottom: 5rem;
-}
-
-.pb-24 {
-  padding-bottom: 6rem;
-}
-
-.pb-72 {
-  padding-bottom: 18rem;
 }
 
 .pb-14 {
